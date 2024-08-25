@@ -1,0 +1,6 @@
+@SponsorshipWebApp_HostAddress = http://localhost:5217
+
+GET {{SponsorshipWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
